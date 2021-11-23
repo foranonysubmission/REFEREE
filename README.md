@@ -1,5 +1,5 @@
 # REFEREE
-Open source code for paper On Structural Explanation of Biases in Graph Neural Networks.
+Open source code for paper *On Structural Explanation of Biases in Graph Neural Networks*.
 
 ## Environment
 Experiments are carried out on a Tesla V100 GPU with Cuda 11.0.
